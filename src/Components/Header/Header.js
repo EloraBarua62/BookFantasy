@@ -1,18 +1,18 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <div className='flex justify-between items-center mx-6'>
+        <div className='sticky top-0 bg-white pb-4 shadow-md'>
+            <div className='flex justify-between items-center mx-20'>
                 <h1 className='text-6xl font-bold'>Book<span className='text-yellow-700'>Fantasy</span> </h1>
-                <nav>
-                    <Link to='/home'>HOME</Link>
-                    <Link to='/review'>REVIEW</Link>
-                    <Link to='/dashboard'>DASHBOARD</Link>
-                    <Link to='/blog'>BLOGS</Link>
-                    <Link to='/about'>ABOUT</Link>
+                <nav className='font-medium'>
+                    <NavLink className='mr-4 hover:text-yellow-700' to='/home'>HOME</NavLink>
+                    <NavLink className='mr-4 hover:text-yellow-700' to='/review'>REVIEW</NavLink>
+                    <NavLink className='mr-4 hover:text-yellow-700' to='/dashboard'>DASHBOARD</NavLink>
+                    <NavLink className='mr-4 hover:text-yellow-700' to='/blog'>BLOGS</NavLink>
+                    <NavLink className='mr-4 hover:text-yellow-700' to='/about'>ABOUT</NavLink>
                 </nav>
             </div>
         </div>       

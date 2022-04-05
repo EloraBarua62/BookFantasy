@@ -3,7 +3,7 @@ import React from 'react';
 const FirstSection = () => {
     return (
         <div className='flex justify-between m-20'>
-            <div className='text-left mr-20'>
+            <div className='text-left mr-20 mt-20'>
                 <h1 className='text-5xl font-bold'><span className='text-yellow-700'>Spend</span> time in</h1>
                 <h1 className='text-5xl font-bold'><span className='text-yellow-700'>Magical</span> world</h1>
 
