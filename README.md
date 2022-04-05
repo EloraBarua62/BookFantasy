@@ -5,4 +5,4 @@ BookFantacy is the collection of Harry Potter series [BookFantacy](live site lin
 * Review site of Harry Potter book series.
 * It contains readers review.
 * It contains dashboard.
-* It contains 2 charts.
+* It contains 2 chart.
