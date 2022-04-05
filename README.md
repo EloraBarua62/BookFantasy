@@ -1,6 +1,6 @@
 # BookFantasy
 
-BookFantacy is the collection of Harry Potter series [BookFantacy](https://github.com/facebook/create-react-app).
+BookFantacy is the collection of Harry Potter series [BookFantacy](live site link).
 
 * Review site of Harry Potter book series.
 * It contains readers review.
