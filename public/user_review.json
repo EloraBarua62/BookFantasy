@@ -2,36 +2,43 @@
     {
         "id": 1,
         "name": "Dinugi Senavirathna",
-        "review": "This comment is from Sri Lanka. actually, Harry Potter is another world. When I read or watch Harry Potter series I am in the wizardry world. My world is Harry Potter",   "rating": 5
-        
+        "review": "This comment is from Sri Lanka. actually, Harry Potter is another world. When I read or watch Harry Potter series I am in the wizardry world. My world is Harry Potter",   
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
         "id": 2,
         "name": "Saniya K",
         "review": "Actually I am a big fan of Harry Potter I know not only me everyone tiny hearts are wandering for Harry. I am so thankful to JK Rowling to take me through the world of magic and wizardry you are imaginary is beyond everything. I know she will never see this comment but I just want to leave my feeling here in the shape of a comment. Truth is I love Harry Potteseries and JK love you so much. When I am reading your books that really makes me crazy.🥰",   
-        "rating": 5
+        "rating": 5,
+        "img":"https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": 3,
-        "name": "Alia",
+        "name": "John",
         "review": "Hats off to J.K. Rowling",
-       "rating": 5
+        "rating": 5,
+        "img":"https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": 4,
         "name": "Kaylee Malain",
         "review": "I ♥️ Harry Potter sooooo much. You don’t even know! Once I finished the series I cried because I didn’t have anymore books to read. Harry Potter is life.",   
-        "rating": 5
+        "rating": 5,
+        "img":"https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     },
     {
         "id": 5,
         "name": "Riya",
         "review": "I think Harry Potter is the best fantasy story ever written . I am a mad fan of it .In today's generation mobile phone and other electronic devices were destroying many aspects of Childhood . But Harry Potter books made them back to reading . The book also shows that real friends are not less than our own brothers and sister. I think J.K. Rowling is an unforgettable contemporary icon .",   
-        "rating": 5
+        "rating": 5,
+        "img":"https://images.unsplash.com/photo-1522228115018-d838bcce5c3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
         "id": 6,
         "name": "Pranta",
-        "review": "This comment is from Bangladesh. actually, Harry Potter is another world. When I read or watch Harry Potter series I am in the wizardry world. My world is Harry Potter",   "rating": 5
+        "review": "This comment is from Bangladesh. actually, Harry Potter is another world. When I read or watch Harry Potter series I am in the wizardry world. My world is Harry Potter",   
+        "rating": 5,
+        "img":"https://images.unsplash.com/photo-1520410006060-eb5c4710b802?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80"
     }
 ]

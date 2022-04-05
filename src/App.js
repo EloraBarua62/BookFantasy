@@ -3,11 +3,12 @@ import './App.css';
 import Header from './Components/Header/Header';
 import { Route, Routes } from 'react-router-dom';
 import Home from './Components/Home/Home';
-import Review from './Components/Review/Review';
+import Review from './Components/Reviews/Reviews';
 import Dashboard from './Components/Dashboard/Dashboard';
 import Blog from './Components/Blog/Blog';
 import About from './Components/About/About';
 import NotFound from './Components/NotFound/NotFound';
+import Reviews from './Components/Reviews/Reviews';
 
 function App() {
   return (
@@ -16,10 +17,10 @@ function App() {
          <Routes>
           <Route path='/' element={<Home></Home>}></Route>
           <Route path='/home' element={<Home></Home>}></Route>
-          <Route path='/review' element={<Review></Review>}></Route>
-          <Route path='/review' element={<Dashboard></Dashboard>}></Route>
-          <Route path='/review' element={<Blog></Blog>}></Route>
-          <Route path='/review' element={<About></About>}></Route>
+          <Route path='/review' element={<Reviews></Reviews>}></Route>
+          <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
+          <Route path='/blog' element={<Blog></Blog>}></Route>
+          <Route path='/about' element={<About></About>}></Route>
           <Route path='*' element={<NotFound></NotFound>}></Route>
          </Routes>
     </div>
